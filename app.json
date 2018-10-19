@@ -6,6 +6,6 @@
   ],
   "repository": "https://github.com/mparrella823/intro-to-heroku",
   "addons": [
-    "heroku-postgresql"
+    "heroku-postgresql" 
   ]
 }
